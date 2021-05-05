@@ -1,0 +1,30 @@
+.mycartContainer {
+    padding: 25px;
+}
+
+.displayFlex {
+    display: flex;
+}
+
+.floatRight {
+    float: right;
+}
+
+.emptyCart {
+    text-align: center;
+}
+
+.itemCard {
+    width: 30%;
+    margin: 10px;
+}
+
+.itemParent {
+    max-height: 280px;
+    min-height: 280px;
+}
+
+.masterTotal {
+    float: right;
+    font-weight: bold;
+}
